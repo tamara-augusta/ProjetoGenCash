@@ -8,7 +8,7 @@
 O GenCash é um sistema desenvolvido em console que fornece serviços como, armazenamento e visualização de saldo de uma conta bancária de um cliente.
 
 ##  Tecnologias utilizadas
--Java _
+- Java
 - IDE Eclipse
 
 ##  Funcionalidades
@@ -23,7 +23,7 @@ O GenCash é um sistema desenvolvido em console que fornece serviços como, arma
 
 <tabela>
   <tr>
-    <td align="center"><a href="https://github.com/lucianaTSoares"><img src="https://avatars.githubusercontent.com/u/88734065?v=4" width=" 100px" alt="github avatar"><br><sub>Luciana T. Soares</sub></a></td>
+    <td align="center"><a href="https://github.com/lucianaTSoares"><img src="https://avatars.githubusercontent.com/u/88734065?v=4" width=" 100px" alt="github avatar"><br><sub>Luciana T. Soares</sub></a></td
     <td align="center"><a href="https://github.com/petry078"><img src="https://avatars.githubusercontent.com/u/44437770?v=4" width=" 100px" alt="github avatar"><br><sub>Guilherme M. Petry</sub></a></td>
     <td align="center"><a href="https://github.com/riquemendes"><img src="https://avatars.githubusercontent.com/u/97553942?v=4" width=" 100px" alt="github avatar"><br><sub>Henrique Mendes</sub></a></td>
     <td align="center"><a href="https://github.com/Aristaque"><img src="https://avatars.githubusercontent.com/u/98294862?v=4" width=" 100px" alt="github avatar"><br><sub>Jeferson Aristaque</sub></a></td>
